@@ -14,7 +14,7 @@ I'm a passionate game programmer with 2 years of experience in PC game programmi
 - Jump Jump, July 2023
 
 ## #Jump Jump
-- You can read about game design here: [Game Design](https://github.com/GiuseppeRotondo03/JumpJump_Project.github.io-/blob/main/README.md#summary)
+- You can read about game design here: [Game Design](https://giusepperotondo03.github.io/JumpJump_Project.github.io-/)
 - You can try my game here: 
 - You can see my code here:
 
