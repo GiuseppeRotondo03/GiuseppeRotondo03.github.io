@@ -1,4 +1,4 @@
-# Game Programmer
+# Game Programmer & Game Designer
 
 
 ## #About me
