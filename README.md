@@ -13,7 +13,7 @@ I'm a passionate game programmer with 2 years of experience in PC game programmi
 ## #Working Experience
 - Jump Jump, July 2023
 
-## #More
-- You can see my code on github:
+## #Jump Jump
 - You can try my game here:
+- You can see my code on github:
 - You can see more detailed information about my game & work: 
