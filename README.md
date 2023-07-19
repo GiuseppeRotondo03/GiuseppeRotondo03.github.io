@@ -17,3 +17,5 @@ I'm a passionate game programmer with 2 years of experience in PC game programmi
 - You can read about game design here: https://github.com/GiuseppeRotondo03/JumpJump_Project.github.io-/blob/main/README.md#summary
 - You can try my game here: 
 - You can see my code here:
+
+[Publication](https://github.com/GiuseppeRotondo03/JumpJump_Project.github.io-/blob/main/README.md#summary)
