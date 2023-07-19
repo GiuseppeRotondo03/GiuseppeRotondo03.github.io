@@ -15,5 +15,5 @@ I'm a passionate game programmer with 2 years of experience in PC game programmi
 
 ## #Jump Jump
 - You can try my game here:
-- You can see my code on github:
-- You can see more detailed information about my game & work: 
+- You can see my code here:
+- You can read more detailed information about my game & work: 
