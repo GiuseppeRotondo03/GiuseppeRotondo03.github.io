@@ -6,11 +6,8 @@ I'm a passionate game programmer with 2 years of experience in PC game programmi
 
 
 ## #Skills
-#### #Languages
-C++, C#, SQL, PHP.
-#### #Platforms
-Windows
-#### #Engines 
-Unity3D, Unreal Engine 5
+- C++, C#, SQL, PHP
+- Windows
+- Unity3D, Unreal Engine 5
 
 ## #Working Experience
