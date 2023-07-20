@@ -10,10 +10,16 @@ I'm a passionate game programmer and game designer with 2 years of experience in
 - Windows
 - Unity3D, Unreal Engine 5
 
+## #Languages
+- Italian native speaker
+- English b2
+- Japanese a2
+
+
 ## #Working Experience
 - Jump Jump, July 2023
 
-## #Jump Jump
+# #Jump Jump
 - You can read about game design here: [Game Design](https://giusepperotondo03.github.io/JumpJump_Project.github.io-/)
 - You can try my game here: 
 - You can see my code here:
