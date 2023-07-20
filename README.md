@@ -4,17 +4,15 @@
 ## #About me
 I'm a passionate game programmer and game designer with 2 years of experience in PC game programming with Unity 3D and Unreal Engine. I know C, C++ and other programming languages studied in my high school or by myself. Self-taught, honest, open minded, ready to listen to others when needed.
 
-
 ## #Skills
 - C++, C#, SQL, PHP, BluePrint Visual Scripting
 - Windows
 - Unity3D, Unreal Engine 5
 
-## #Languages
+### #Languages
 - Italian native speaker
-- English b2
-- Japanese a2
-
+- English B2
+- Japanese A2
 
 ## #Working Experience
 - Jump Jump, July 2023
