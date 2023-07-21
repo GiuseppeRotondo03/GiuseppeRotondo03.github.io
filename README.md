@@ -1,8 +1,8 @@
-# Gameplay Programmer & Game Designer
+# Gameplay Programmer & Designer
 
 
 ## #About me
-I'm a passionate game programmer and game designer with 2 years of experience in PC game programming with Unity 3D and Unreal Engine. I know C, C++ and other programming languages studied in my high school or by myself. Self-taught, honest, open minded, ready to listen to others when needed.
+I'm a passionate game programmer and game designer with 2 years of experience in PC game programming with Unity 3D and Unreal Engine. In my high school or by myself i studied C, C++ and other programming languages. Self-taught, honest, open minded, ready to listen to others when needed.
 
 ## #Skills
 - C++, C#, SQL, PHP, BluePrint Visual Scripting
