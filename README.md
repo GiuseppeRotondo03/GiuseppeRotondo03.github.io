@@ -11,7 +11,7 @@ I'm a passionate game programmer and game designer with 2 years of experience in
 
 ### #Languages
 - Italian native speaker
-- English B2
+- English B1
 - Japanese A2
 
 ## #Working Experience
@@ -19,6 +19,6 @@ I'm a passionate game programmer and game designer with 2 years of experience in
 
 # #Jump Jump
 - You can read about game design here: [Game Design](https://giusepperotondo03.github.io/JumpJump_Project.github.io-/)
-- You can try my game here: 
-- You can see my code here:
+- You can try my game here: [Link]
+- Just watch a short video of the actual gameplay here: [Video]
 
