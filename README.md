@@ -2,7 +2,8 @@
 
 
 ## #About me
-I'm a passionate game programmer and game designer with 2 years of experience in PC game programming with Unity 3D and Unreal Engine. In my high school or by myself i studied C, C++ and other programming languages. Self-taught, honest, open minded, ready to listen to others when needed.
+- I'm a passionate game programmer and game designer with 2 years of experience in PC game programming with Unity 3D and Unreal Engine. In my high school or by myself i studied C, C++ and other programming languages. Self-taught, honest, open minded, ready to listen to others when needed.
+- I became a gamer when i was 7, with the PlayStation 2, and got into game development in middle school. I took a computer science path in high school and started developing my first games when I was 17.
 
 ## #Skills
 - C++, C#, SQL, PHP, BluePrint Visual Scripting
