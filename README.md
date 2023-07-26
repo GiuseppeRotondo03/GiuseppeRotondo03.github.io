@@ -2,7 +2,7 @@
 
 
 ## #About me
-- I'm a passionate game programmer and game designer with 2 years of experience in Unity 3D and Unreal Engine. In my high school or by myself i studied C, C++ and other programming languages. Enthusiastic, open minded and ready to listen to others when needed.
+- I'm a passionate young (20 yo) game programmer and game designer with 2 years of experience in Unity 3D and Unreal Engine. In my high school or by myself i studied C, C++ and other programming languages. Enthusiastic, open minded and ready to listen to others when needed.
 - I became a gamer when i was 7, with the PlayStation 2, and got into game development in middle school. I took a computer science path in high school and started developing my first games when I was 17.
 
 ## #Skills
@@ -17,6 +17,8 @@
 
 ## #Working Experience
 - Jump Jump, July 2023
+- Lots of small projects in C++, PHP, SQL, during high school
+- ABAP accademy with IBM (October 2022)
 
 # #Jump Jump
 Jump Jump is a first person parkour game with very unique mechanics.
@@ -25,3 +27,7 @@ Jump Jump is a first person parkour game with very unique mechanics.
 - This is what the first 5 minutes of the game look like: [Short Video](https://youtu.be/F2q7cqzGsKQ)
 - This is what the first 50 minutes look like: [Short Video](https://youtu.be/UNw_JKaEGEY)
 - You can see the game code here: [Link]
+
+# #About small projects and ABAP accademy with IBM
+
+
