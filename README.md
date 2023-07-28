@@ -22,10 +22,9 @@
 
 # #Jump Jump
 Jump Jump is a first person parkour game with very unique mechanics.
-- You can read about game design here: [Game Design](https://giusepperotondo03.github.io/JumpJump_Project.github.io-/)
-- You can try my game here: [Download Page](https://giusepperotondo.itch.io/jump-jump)
-- This is what the first 5 minutes of the game look like: [Short Video](https://youtu.be/F2q7cqzGsKQ)
-- This is what the first 50 minutes look like: [Short Video](https://youtu.be/UNw_JKaEGEY)
+- [1 minute of Gameplay](https://youtu.be/tAaQr4a0KZU)
+- [You can read about game design here](https://giusepperotondo03.github.io/JumpJump_Project.github.io-/)
+- [You can try my game here](https://giusepperotondo.itch.io/jump-jump)
 - You can see the game code here: [Link]()
 
 
