@@ -28,6 +28,8 @@ Jump Jump is a first person parkour game with very unique mechanics.
 - See the game code here: [click here](https://giusepperotondo03.github.io/JumpJumpCode.Github.io/)
 
 # ##Personal high school project
-The projects concern small e-commerce sites, databases and other small programs such as school tests for invented customers.
-
+During 5 years of school I was able to learn as many things as possible.
+- Calculators and small programs of different types in C++
+- Ecommerce thanks to CSS, HTML, Javascript and SQL
+- Databases for small shops with the help of DBMS and SQL.
 
