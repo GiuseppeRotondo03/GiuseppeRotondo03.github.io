@@ -30,6 +30,6 @@ Jump Jump is a first person parkour game with very unique mechanics.
 ## #Personal high school project
 During 5 years of school I was able to learn as many things as possible.
 - Calculators and small programs of different types in C++
-- Ecommerce thanks to CSS, HTML, Javascript and SQL
+- E-commerce thanks to CSS, HTML, JavaScript and SQL
 - Databases for small shops with the help of DBMS and SQL.
 
