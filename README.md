@@ -17,7 +17,7 @@
 
 ## #Working Experience
 - Jump Jump, July 2023
-- Lots of small projects in C++, PHP, SQL, during high school
+- Multiples small projects in C++, PHP, SQL, CSS and a bit of JavaScript during high school
 - ABAP accademy with IBM (October 2022)
 
 # #Jump Jump
@@ -26,5 +26,8 @@ Jump Jump is a first person parkour game with very unique mechanics.
 - Read about game design here: [click here](https://giusepperotondo03.github.io/JumpJump_Project.github.io-/)
 - Try my game here: [click here](https://giusepperotondo.itch.io/jump-jump)
 - See the game code here: [click here](https://giusepperotondo03.github.io/JumpJumpCode.Github.io/)
+
+# ##Personal high school project
+The projects concern small e-commerce sites, databases and other small programs such as school tests for invented customers.
 
 
