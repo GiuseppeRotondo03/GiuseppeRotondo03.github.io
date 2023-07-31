@@ -9,6 +9,7 @@
 - C++, C#, SQL, PHP, BluePrint Visual Scripting
 - Windows
 - Unity3D, Unreal Engine 5
+- More here: [Software and how I used them](https://github.com/GiuseppeRotondo03/GiuseppeRotondo03.github.io/blob/main/List%20of%20Programs%20that%20i%20know.pdf)
 
 ### #Languages
 - Italian native speaker
