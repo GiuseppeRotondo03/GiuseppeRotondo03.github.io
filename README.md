@@ -22,7 +22,7 @@
 - ABAP accademy with IBM (October 2022)
 
 # #Jump Jump
-Jump Jump is a first person parkour game with very unique mechanics.
+Jump Jump is a first person parkour game with very unique mechanics. My role in this project was to design the game world, all the many mechanics and respond to feedback from beta testers.
 - 1 minute of Gameplay: [click here](https://youtu.be/PvDKkf-1XQo)
 - Read about game design here: [click here](https://giusepperotondo03.github.io/JumpJump_Project.github.io-/)
 - Try my game here: [click here](https://giusepperotondo.itch.io/jump-jump)
