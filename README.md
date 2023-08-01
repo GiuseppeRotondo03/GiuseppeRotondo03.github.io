@@ -18,8 +18,8 @@
 - Japanese A2
 
 ## #Working Experience
-- Project V, 2023
-- Jump Jump, 2023
+- Project V, 2023 LevelDesigner
+- Jump Jump, 2023, Gameplay Designer
 - Multiples small projects in C++, PHP, SQL, CSS and a bit of JavaScript during high school
 - ABAP accademy with IBM (October 2022)
 
@@ -31,7 +31,7 @@ My role: Level Designer
 
 # #Jump Jump (July 2023)
 My role: Gameplay Desginer & Programmer
-Jump Jump is a first person parkour game with very unique mechanics. My role in this project was to design the game world, all the many mechanics and respond to feedback from beta testers.
+Jump Jump is a first person parkour *(FINISHED)* game with very unique mechanics. My role in this project was to design the game world, all the many mechanics and respond to feedback from beta testers.
 - 1 minute of Gameplay: [click here](https://youtu.be/PvDKkf-1XQo)
 - Read about game design here: [click here](https://giusepperotondo03.github.io/JumpJump_Project.github.io-/)
 - Try my game here: [click here](https://giusepperotondo.itch.io/jump-jump)
