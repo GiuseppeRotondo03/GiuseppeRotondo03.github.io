@@ -1,7 +1,11 @@
 # Level & Gamplay Designer
 
+<hr>
 
 ## #About me
+
+<hr>
+
 - I'm a passionate young (20 yo) game designer with 2 years of experience in Unity 3D and Unreal Engine. In my high school or by myself i studied C, C++ and other programming languages. Enthusiastic, open minded and ready to listen to others when needed.
 - I became a gamer when i was 7, with the PlayStation 2, and got into game development in middle school. I took a computer science path in high school and started developing my first games when I was 17.
 - In the last 2 years i become a big passionate of game design and i started develop my own mini-games.
@@ -18,6 +22,9 @@
 - Japanese A2
 
 # #Working Experience
+
+<hr>
+
 - Project V, *LevelDesigner*
 - Jump Jump, *Gameplay Designer*
 - Multiples small projects in C++, PHP, SQL, CSS and a bit of JavaScript during high school
@@ -37,6 +44,10 @@ Jump Jump is a first person parkour *(FINISHED)* game with very unique mechanics
 - Read about game design here: [click here](https://giusepperotondo03.github.io/JumpJump_Project.github.io-/)
 - Try my game here: [click here](https://giusepperotondo.itch.io/jump-jump)
 - See the game code here: [click here](https://giusepperotondo03.github.io/JumpJumpCode.Github.io/)
+
+
+<hr>
+
 
 ### #Personal high school project
 During 5 years of school I was able to learn as many things as possible.
