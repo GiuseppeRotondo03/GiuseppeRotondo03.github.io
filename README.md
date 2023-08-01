@@ -25,7 +25,9 @@
 
 # #Project V (August 2023)
 My role: Level Designer
-* update in few hours *
+- If you want to try the final level: [Play the level Graybox](https://giusepperotondo.itch.io/project-v)
+- See and Read more about how i did the level [Here](https://giusepperotondo03.github.io/project_V/)
+- [Art Station](https://www.artstation.com/artwork/rJPDP6)
 
 # #Jump Jump (July 2023)
 My role: Gameplay Desginer & Programmer
