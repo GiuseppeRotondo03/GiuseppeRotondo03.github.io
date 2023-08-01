@@ -18,8 +18,8 @@
 - Japanese A2
 
 # #Working Experience
-- Project V, 2023 LevelDesigner
-- Jump Jump, 2023, Gameplay Designer
+- Project V, *LevelDesigner*
+- Jump Jump, *Gameplay Designer*
 - Multiples small projects in C++, PHP, SQL, CSS and a bit of JavaScript during high school
 - ABAP accademy with IBM (October 2022)
 
