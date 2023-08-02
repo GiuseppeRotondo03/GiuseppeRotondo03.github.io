@@ -1,9 +1,11 @@
-
-# #About me - Level & Gameplay Designer
+# #Gameplay & Level Designer
 
 <hr>
 
-- I'm a passionate young (20 yo) game designer and game developer with 2 years of experience in Unity 3D and Unreal Engine. In my high school or by myself i studied C, C++ and other programming languages. Enthusiastic, open minded and ready to listen to others when needed.
+## #About me
+
+<hr>
+- I'm a passionate young (20 yo) Level & Gameplay Designer with 2 years of experience in Unity 3D and Unreal Engine. In my high school or by myself i studied C, C++ and other programming languages.
 - I became a gamer when i was 7, with the PlayStation 2, and got into game development in middle school. I took a computer science path in high school and started developing my first games when I was 17.
 - In the last 2 years i become a big passionate of game design and i started develop my own mini-games.
 - Now I want to become the person who inspires and makes children and teenagers dream.
