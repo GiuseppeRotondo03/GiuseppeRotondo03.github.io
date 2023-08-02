@@ -1,7 +1,3 @@
-# #Game Developer & Designer
-
-<hr>
-
 ## #About me
 
 <hr>
