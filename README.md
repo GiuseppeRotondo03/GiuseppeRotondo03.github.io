@@ -1,8 +1,5 @@
 
-# #About me
-<hr>
-
-## #Level & Gameplay Designer
+# #About me - Level & Gameplay Designer
 
 <hr>
 
