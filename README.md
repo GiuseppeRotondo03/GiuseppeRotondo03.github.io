@@ -18,12 +18,6 @@
 - Japanese A2
 
 # #Working Experience
-
-- Anty, Please save the eggs!, *LevelDesigner // GameDesigner*
-- Project V, *LevelDesigner*
-- Jump Jump, *Game Designer // Gameplay programmer*
-- ABAP accademy with IBM (October 2022)
-- Multiples small projects in C++, PHP, SQL
   
 <hr>
 
@@ -50,13 +44,8 @@
 - Try my game here: [click here](https://giusepperotondo.itch.io/jump-jump)
 - See the game code here: [click here](https://giusepperotondo03.github.io/JumpJumpCode.Github.io/)
 
-
-<hr>
-
-
-### #Personal high school project
-- During 5 years of school I was able to learn as many things as possible.
+### #Personal high school project // ABAP accademy with IBM CIC
+- During 5 years of school I was able to learn how to work in a small team and different programming lenguages
 - Calculators and small programs of different types in C++
-- E-commerce thanks to CSS, HTML, JavaScript and SQL
-- Databases for small shops with the help of DBMS and SQL.
-
+- Small E-commerce sites with databases in HTML, PHP and SQL
+- In the late summer of 2022 I was chosen by IBM - CIC as a student for an ABAP academy
