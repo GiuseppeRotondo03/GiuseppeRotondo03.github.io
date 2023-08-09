@@ -4,7 +4,6 @@
 
 ## #About me
 
-<hr>
 - I'm a passionate young (20 yo) Level & Gameplay Designer with 4 years of experience in Unity 3D and Unreal Engine as a self-taught. Over the past month, I've been making several games with the goal of improve my Design skill.
 
 ## #Skills
