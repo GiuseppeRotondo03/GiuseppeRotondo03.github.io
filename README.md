@@ -26,7 +26,7 @@
 - Anty is a Top - Down Arcade game. The goal of the player, an ant, is to save the eggs in the anthill without being seen by the spiders. Each level has different challenges and different difficulty levels.
 - Watch Gameplay clips here [1 minute video](https://youtu.be/yeR7v-2roT4)
 - Try the game [Download Page](https://giusepperotondo.itch.io/anty-please-save-the-eggs)
-- Read more about how i did it [Here]()
+- Read more about how i did it [Here](https://giusepperotondo03.github.io/Anty-Design/)
 
 ### #Project V (August 2023)
 - My role: Level Designer
