@@ -1,4 +1,4 @@
-# #Gameplay & Level Designer
+# #Gameplay // Level Designer
 
 <hr>
 
@@ -9,8 +9,8 @@
 
 ## #Skills
 - Unity3D, Unreal Engine 5
-- BluePrint Visual Scripting, C++, C#, SQL, PHP
 - More here: [Software and how I used them](https://github.com/GiuseppeRotondo03/GiuseppeRotondo03.github.io/blob/main/List%20of%20Programs%20that%20i%20know.pdf)
+- BluePrint Visual Scripting, C++, C#, SQL, PHP
 
 ### #Languages
 - Italian native speaker
@@ -21,17 +21,23 @@
 
 <hr>
 
+- Anty, Please save the eggs!, *LevelDesigner // GameDesigner*
 - Project V, *LevelDesigner*
-- Jump Jump, *Gameplay Designer*
+- Jump Jump, *Game Designer // Gameplay programmer*
 - Multiples small projects in C++, PHP, SQL, CSS and a bit of JavaScript during high school
 - ABAP accademy with IBM (October 2022)
+
+# #Anty, Please save the eggs! (August 2023)
+- My role: Level Designer
+- Anty is a Top - Down Arcade game. The goal of the player, an ant, is to save the eggs in the anthill without being seen by the spiders. Each level has different challenges and different difficulty levels.
+- Watch Gameplay clips here [1 minute video](https://youtu.be/yeR7v-2roT4)
+- Try the game here 
 
 ## #Project V (August 2023)
 My role: Level Designer
 The goal of this project was to demonstrate my ability as a level designer and make a new level for my future FPS game *under specific conditions*.
 - See and Read more about how i did the level [Here](https://giusepperotondo03.github.io/project_V/)
 - If you want to try the final level: [Play the level Graybox](https://giusepperotondo.itch.io/project-v)
-- [Art Station](https://www.artstation.com/artwork/rJPDP6)
 
 ## #Jump Jump (July 2023)
 My role: Gameplay Desginer & Programmer
