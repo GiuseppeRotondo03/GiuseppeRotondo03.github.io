@@ -16,8 +16,6 @@
 - English B1
 - Japanese A2
 
-<hr>
-
 # #Working Experience
   
 
