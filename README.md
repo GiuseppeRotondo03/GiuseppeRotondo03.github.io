@@ -27,7 +27,7 @@
 - Screenshots [ArtStation](https://www.artstation.com/artwork/Xgxy4n)
 - Watch Gameplay clips [1 minute video](https://youtu.be/yeR7v-2roT4)
 - Try the game [Download Page](https://giusepperotondo.itch.io/anty-please-save-the-eggs)
-- Read more about [how i did it](https://giusepperotondo03.github.io/Anty-Design/)
+- Read more about [Game Design](https://giusepperotondo03.github.io/Anty-Design/)
 
 ### #Project V (August 2023)
 - My role: Level Designer
