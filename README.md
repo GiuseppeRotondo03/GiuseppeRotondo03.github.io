@@ -17,7 +17,8 @@
 - Japanese A2
 
 # #Working Experience
-  
+
+<hr>
 
 ## #Anty, Please save the eggs! (August 2023)
 - My role: Level Designer
