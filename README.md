@@ -30,13 +30,13 @@
 
 <hr>
 
-## #Project V (August 2023)
+### #Project V (August 2023)
 - My role: Level Designer
 - The goal of this project was to demonstrate my ability as a level designer and make a new level for my future FPS game *under specific conditions*.
 - See and Read more about how i did the level [Here](https://giusepperotondo03.github.io/project_V/)
 - If you want to try the final level: [Play the level Graybox](https://giusepperotondo.itch.io/project-v)
 
-## #Jump Jump (July 2023)
+### #Jump Jump (July 2023)
 - My role: Gameplay Desginer & Programmer
 - Jump Jump is a first person parkour game with unique mechanics
 - 1 minute of Gameplay: [click here](https://youtu.be/PvDKkf-1XQo)
