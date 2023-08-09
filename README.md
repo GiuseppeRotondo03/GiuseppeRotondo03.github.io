@@ -16,6 +16,8 @@
 - English B1
 - Japanese A2
 
+<hr>
+
 # #Working Experience
   
 <hr>
@@ -26,8 +28,6 @@
 - Watch Gameplay clips here [1 minute video](https://youtu.be/yeR7v-2roT4)
 - Try the game [Download Page]()
 - Read more about how i did it [Here]()
-
-<hr>
 
 ### #Project V (August 2023)
 - My role: Level Designer
