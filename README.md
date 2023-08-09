@@ -19,13 +19,13 @@
 
 # #Working Experience
 
-<hr>
-
 - Anty, Please save the eggs!, *LevelDesigner // GameDesigner*
 - Project V, *LevelDesigner*
 - Jump Jump, *Game Designer // Gameplay programmer*
 - Multiples small projects in C++, PHP, SQL, CSS and a bit of JavaScript during high school
 - ABAP accademy with IBM (October 2022)
+
+<hr>
 
 ## #Anty, Please save the eggs! (August 2023)
 - My role: Level Designer
