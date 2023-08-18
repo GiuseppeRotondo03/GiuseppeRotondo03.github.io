@@ -31,7 +31,7 @@ My role: Level Designer // Gameplay Designer
 
 ### #Project V (August 2023)
 My role: Level Designer
-- The goal of this project was to demonstrate my ability as a level designer and make a new level for my future FPS game *under specific conditions*.
+- The goal of this project was create a map, following the specifications given by the game designer, for a hypothetical FPS game.
 - See and Read more about how i did the level [Here](https://giusepperotondo03.github.io/project_V/)
 - If you want to try the final level: [Play the level Graybox](https://giusepperotondo.itch.io/project-v)
 
