@@ -13,12 +13,12 @@
 - BluePrint Visual Scripting, C++, C#
 - Italian native speaker, English B1, Japanese A2
 - Solo & Team working
-  
-
-<hr>
-
+ 
 # #Personal Project Experience
 
+ 
+
+<hr>
 
 ## #Anty, Please save the eggs! - Level Desinger / Game Desinger
 Anty is a Top - Down Arcade game. The player goal, an ant, is to save the eggs in the anthill without being seen by the spiders. Each level has different challenges and different difficulty levels.
