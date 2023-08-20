@@ -18,7 +18,6 @@
 - Solo & Team working
 - Italian native speaker, English B1, Japanese A2
 
-<hr>
 
 # #Personal Project Experience
 
