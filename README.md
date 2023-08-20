@@ -8,15 +8,15 @@
 - My ArtStation portfolio: [Giuseppe Rotondo](https://www.artstation.com/giusepperotondo)
 
 ## #Skills
+- Able to make a game mechanics from multiple ideas
+- Able to design and prototype a level following the Game Design team request
+- Able to update the level thanks to player and / or game Design team feedback
+- Able to make GDD
 - Unity3D, Unreal Engine 5
 - More here: [Software and how I used them](https://github.com/GiuseppeRotondo03/GiuseppeRotondo03.github.io/blob/main/List%20of%20Programs%20that%20i%20know.pdf)
 - BluePrint Visual Scripting, C++, C#
 - Solo & Team working
-
-### #Languages
-- Italian native speaker
-- English B1
-- Japanese A2
+- Italian native speaker, English B1, Japanese A2
 
 <hr>
 
