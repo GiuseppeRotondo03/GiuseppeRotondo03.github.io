@@ -23,10 +23,10 @@
 
 ## #Anty, Please save the eggs! - Level Desinger / Game Desinger
 Anty is a Top - Down Arcade game. The player goal, an ant, is to save the eggs in the anthill without being seen by the spiders. Each level has different challenges and different difficulty levels.
-- [Screenshots - ArtStation](https://www.artstation.com/artwork/Xgxy4n)
-- [Watch Gameplay clips - 1 minute video](https://youtu.be/yeR7v-2roT4)
-- [Try the game - Download Page](https://giusepperotondo.itch.io/anty-please-save-the-eggs)
-- [Read more about - Game Design](https://giusepperotondo03.github.io/Anty-Design/)
+- Screenshots [ArtStation](https://www.artstation.com/artwork/Xgxy4n)
+- Watch Gameplay clips [1 minute video](https://youtu.be/yeR7v-2roT4)
+- Try the game [Download Page](https://giusepperotondo.itch.io/anty-please-save-the-eggs)
+- Read more about [Game Design](https://giusepperotondo03.github.io/Anty-Design/)
 
 ### #Project V - Level Designer
 The goal of this project was create a map, following the specifications given by the game designer, for a hypothetical FPS game.
@@ -40,7 +40,7 @@ Jump Jump is a first person parkour game with unique mechanics
 - Try my game here: [click here](https://giusepperotondo.itch.io/jump-jump)
 - See the game code here: [click here](https://giusepperotondo03.github.io/JumpJumpCode.Github.io/)
 
-### #Personal high school project // ABAP accademy with IBM CIC
+#### #Personal high school project // ABAP accademy with IBM CIC
 - During 5 years of school I was able to learn how to work in a small team and different programming lenguages
 - Calculators and small programs of different types in C++
 - Small E-commerce sites with databases in HTML, PHP and SQL
