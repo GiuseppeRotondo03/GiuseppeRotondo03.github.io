@@ -1,7 +1,5 @@
 # #Gameplay // Level Designer
 
-<hr>
-
 ## #About me
 
 - I'm a passionate young (20 yo) Level & Gameplay Designer with 4 years of experience in Unity 3D and Unreal Engine as a self-taught. Over the past month, I've been making several games with the goal of improve my Design skill.
@@ -19,9 +17,10 @@
 - Italian native speaker, English B1, Japanese A2
 
 
+<hr>
+
 # #Personal Project Experience
 
-<hr>
 
 ## #Anty, Please save the eggs! - Level Desinger / Game Desinger
 Anty is a Top - Down Arcade game. The player goal, an ant, is to save the eggs in the anthill without being seen by the spiders. Each level has different challenges and different difficulty levels.
