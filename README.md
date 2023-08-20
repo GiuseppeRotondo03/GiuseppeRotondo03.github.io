@@ -10,12 +10,15 @@
 ## #Skills
 - Unity3D, Unreal Engine 5
 - More here: [Software and how I used them](https://github.com/GiuseppeRotondo03/GiuseppeRotondo03.github.io/blob/main/List%20of%20Programs%20that%20i%20know.pdf)
-- BluePrint Visual Scripting, C++, C#, SQL, PHP
+- BluePrint Visual Scripting, C++, C#
+- Solo & Team working
 
 ### #Languages
 - Italian native speaker
 - English B1
 - Japanese A2
+
+<hr>
 
 # #Personal Project Experience
 
@@ -28,10 +31,14 @@ Anty is a Top - Down Arcade game. The player goal, an ant, is to save the eggs i
 - Try the game [Download Page](https://giusepperotondo.itch.io/anty-please-save-the-eggs)
 - Read more about [Game Design](https://giusepperotondo03.github.io/Anty-Design/)
 
+<hr>
+
 ### #Project V - Level Designer
 The goal of this project was create a map, following the specifications given by the game designer, for a hypothetical FPS game.
 - See and Read more about how i did the level [Here](https://giusepperotondo03.github.io/project_V/)
 - If you want to try the final level: [Play the level Graybox](https://giusepperotondo.itch.io/project-v)
+
+<hr>
 
 ### #Jump Jump - Game Programmer
 Jump Jump is a first person parkour game with unique mechanics
@@ -39,6 +46,8 @@ Jump Jump is a first person parkour game with unique mechanics
 - Read about game design here: [click here](https://giusepperotondo03.github.io/JumpJump_Project.github.io-/)
 - Try my game here: [click here](https://giusepperotondo.itch.io/jump-jump)
 - See the game code here: [click here](https://giusepperotondo03.github.io/JumpJumpCode.Github.io/)
+
+<hr>
 
 #### #Personal high school project // ABAP accademy with IBM CIC
 - During 5 years of school I was able to learn how to work in a small team and different programming lenguages
