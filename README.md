@@ -32,7 +32,7 @@ In this project I had to make a map for a story - mode of a FPS game with props 
 
 <hr>
 
-## #Anty Please save the eggs! - Level Desinger / Game Desinger [playable]
+## #Anty, Please save the eggs! - Level Desinger / Game Desinger [playable]
 Anty is a Top - Down Arcade game. The player goal, an ant, is to save the eggs in the anthill without being seen by the spiders. Each level has different challenges and different difficulty levels.
 - Screenshots [ArtStation](https://www.artstation.com/artwork/Xgxy4n)
 - Watch Gameplay clips [1 minute video](https://youtu.be/yeR7v-2roT4)
