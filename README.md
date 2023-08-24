@@ -4,6 +4,7 @@
 
 - I'm a passionate young (20 yo) Level & Gameplay Designer with 4 years of experience in Unity 3D and Unreal Engine as a self-taught. Over the past months, I've been making several games with the goal of improve my Design skill.
 - My ArtStation portfolio: [Giuseppe Rotondo](https://www.artstation.com/giusepperotondo)
+- My LinkedIn profile: [Giuseppe Rotondo](https://www.linkedin.com/in/giuseppe-rotondo-6b222a1b1/)
 
 ## #Skills
 - Able to make a game mechanics from multiple ideas and make a GDD
@@ -11,9 +12,9 @@
 - Able to update the level thanks to player and / or game Design team feedback
 - Unity3D, Unreal Engine 5. More here: [Software and how I used them](https://github.com/GiuseppeRotondo03/GiuseppeRotondo03.github.io/blob/main/List%20of%20Programs%20that%20i%20know.pdf)
 - BluePrint Visual Scripting, C++, C#
-- Italian native speaker, English B1, Japanese A2
 - Solo & Team working
- 
+- Italian native speaker, English B1, Japanese A2
+
 # #Personal Project Experience
 
 <hr>
