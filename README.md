@@ -15,7 +15,7 @@ I'm a passionate Level & Gameplay Designer with 4 years of experience in Unity &
 
 <hr>
 
-# #Project Experience
+# #Projects Experience
 
 ## #Project V - Level Designer [playable]
 I been able  to create a map, following the specifications given by the game designer, for an FPS Cal Of Duty - like game.
