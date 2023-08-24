@@ -1,5 +1,7 @@
 # #About me
 
+<hr>
+
 I'm a passionate Level & Gameplay Designer with 4 years of experience in Unity & Unreal Engine. I love creating complex but easy to understand levels & worlds.
 - My ArtStation portfolio: [Giuseppe Rotondo](https://www.artstation.com/giusepperotondo)
 - My LinkedIn profile: [Giuseppe Rotondo](https://www.linkedin.com/in/giuseppe-rotondo-6b222a1b1/)
@@ -24,13 +26,12 @@ I been able  to create a map, following the specifications given by the game des
 - See and Read more about how i did the level [Here](https://giusepperotondo03.github.io/project_V/)
 - If you want to try the final level: [Play the level Graybox](https://giusepperotondo.itch.io/project-v)
 
-<hr>
+
 
 ## #FPS X, Canyon Bridge - Level Desinger
 In this project I had to make a map for a story - mode of a FPS game with props given by game designer
 - See and read more on Artstation: [Click Here](https://www.artstation.com/artwork/6NzvN5)
 
-<hr>
 
 ## #Anty, Please save the eggs! - Level Desinger / Game Desinger [playable]
 Anty is a Top - Down Arcade game. The player goal, an ant, is to save the eggs in the anthill without being seen by the spiders. Each level has different challenges and different difficulty levels.
@@ -39,7 +40,6 @@ Anty is a Top - Down Arcade game. The player goal, an ant, is to save the eggs i
 - Try the game [Download Page](https://giusepperotondo.itch.io/anty-please-save-the-eggs)
 - Read more about [Game Design](https://giusepperotondo03.github.io/Anty-Design/)
 
-<hr>
 
 ### #Jump Jump - Game Programmer / Gameplay Designer [playable]
 Jump Jump is a first person parkour game with unique mechanics
