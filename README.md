@@ -19,20 +19,20 @@
 
 <hr>
 
-## #Project V - Level Designer [playable]
+# #Project V - Level Designer [playable]
 The goal of this project was create a map, following the specifications given by the game designer, for a hypothetical FPS game.
 - See and Read more about how i did the level [Here](https://giusepperotondo03.github.io/project_V/)
 - If you want to try the final level: [Play the level Graybox](https://giusepperotondo.itch.io/project-v)
 
 <hr>
 
-### #FPS X, Canyon Bridge - Level Desinger
+## #FPS X, Canyon Bridge - Level Desinger
 In this project I had to make a map for a story - mode of a FPS game with props given by game designer
 - See and read more on Artstation: [Click Here](https://www.artstation.com/artwork/6NzvN5)
 
 <hr>
 
-### #Anty, Please save the eggs! - Level Desinger / Game Desinger [playable]
+## #Anty, Please save the eggs! - Level Desinger / Game Desinger [playable]
 Anty is a Top - Down Arcade game. The player goal, an ant, is to save the eggs in the anthill without being seen by the spiders. Each level has different challenges and different difficulty levels.
 - Screenshots [ArtStation](https://www.artstation.com/artwork/Xgxy4n)
 - Watch Gameplay clips [1 minute video](https://youtu.be/yeR7v-2roT4)
