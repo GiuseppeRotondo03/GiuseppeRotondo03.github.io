@@ -1,5 +1,3 @@
-# #Gameplay // Level Designer
-
 ## #About me
 
 I'm a passionate Level & Gameplay Designer with 4 years of experience in Unity & Unreal Engine. I love creating complex but easy to understand levels & worlds.
