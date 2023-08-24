@@ -15,8 +15,6 @@ I'm a passionate Level & Gameplay Designer with 4 years of experience in Unity &
 - Solo & Team working
 - Italian native speaker, English B1, Japanese A2
 
-<hr>
-
 # #Projects Experience
 
 <hr>
