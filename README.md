@@ -2,7 +2,7 @@
 
 ## #About me
 
-- I'm a passionate young (20 yo) Level & Gameplay Designer with 4 years of experience in Unity 3D and Unreal Engine as a self-taught. Over the past months, I've been making several games with the goal of improve my Design skill.
+- I'm a passionate Level & Gameplay Designer with 4 years of experience in Unity & Unreal Engine. I love creating complex but easy to understand levels & worlds.
 - My ArtStation portfolio: [Giuseppe Rotondo](https://www.artstation.com/giusepperotondo)
 - My LinkedIn profile: [Giuseppe Rotondo](https://www.linkedin.com/in/giuseppe-rotondo-6b222a1b1/)
 
