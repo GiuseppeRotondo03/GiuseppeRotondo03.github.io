@@ -15,10 +15,15 @@ I'm a passionate Level & Gameplay Designer with 4 years of experience in Unity &
 - Solo & Team working
 - Italian native speaker, English B1, Japanese A2
 
-# #Projects Experience
+# #Experience
 
 <hr>
 
+### #Level Designer - Block Tactics
+Freelance · Ruzzoli - IT Solutions · Freelance ago 2023 - Presente · 1 meseago 2023 - Present · 1 month · Remote
+- Block Tactics is a turn based tactics multiplayer game with destructible terrain and free aim made by an Indie studio.
+- In one sentence: It takes the general idea of XCOM, adds back the ballistics system from the original, spiked with the free aim mode taken from Phoenix Point and puts it into a minecraft style
+        destructible block world, with a focus on multiplayer matches.
 
 ### #FPS X, Canyon Bridge - Level Desinger
 In this project I had to make a map for a story - mode of a FPS game with props given by game designer
