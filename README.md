@@ -16,16 +16,16 @@ I'm a passionate Level & Gameplay Designer with 4 years of experience in Unity &
 
 <hr> 
 
-### #Level Designer - Block Tactics
-Freelance · Ruzzoli - IT Solutions · Freelance · ago 2023 - Present · Remote
+### #Level Designer - Block Tactics 
+Freelance · Ruzzoli - IT Solutions · ago 2023 - Present · Remote
 - Block Tactics is a turn based tactics multiplayer game with destructible terrain and free aim made by an Indie studio.
 - In one sentence: It takes the general idea of XCOM, adds back the ballistics system from the original, spiked with the free aim mode taken from Phoenix Point and puts it into a minecraft style
         destructible block world, with a focus on multiplayer matches.
 
 ### #Freelancer
-Freelancer Level Designer // Game Designer // Gameplay Programmer
+Freelancer Level Designer // Game Designer // Gameplay Programmer · apr 2021 - ago 2023 · Remote
 - Worked on small projects, often as multiplayer map / level designer on Minecraft servers
-- Personal projects
+- Personal projects with Unreal Engine 4/5
 
 # #Projects
 
