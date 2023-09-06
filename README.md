@@ -7,9 +7,6 @@ I'm a passionate Level & Gameplay Designer with 4 years of experience in Unity &
 - My LinkedIn profile: [Giuseppe Rotondo](https://www.linkedin.com/in/giuseppe-rotondo-6b222a1b1/)
 
 ## #Skills
-- Able to make a game mechanics from multiple ideas and make a GDD
-- Able to design and prototype a level following the Game Design team request
-- Able to update the level thanks to player and / or game Design team feedback
 - Unity3D, Unreal Engine 5. More here: [Software and how I used them](https://github.com/GiuseppeRotondo03/GiuseppeRotondo03.github.io/blob/main/List%20of%20Programs%20that%20i%20know.pdf)
 - BluePrint Visual Scripting, C++, C#
 - Solo & Team working
@@ -24,6 +21,11 @@ Freelance · Ruzzoli - IT Solutions · Freelance · ago 2023 - Present · Remote
 - Block Tactics is a turn based tactics multiplayer game with destructible terrain and free aim made by an Indie studio.
 - In one sentence: It takes the general idea of XCOM, adds back the ballistics system from the original, spiked with the free aim mode taken from Phoenix Point and puts it into a minecraft style
         destructible block world, with a focus on multiplayer matches.
+
+### #Freelancer
+Freelancer Level Designer // Game Designer // Gameplay Programmer
+- Worked on small projects, often as multiplayer map / level designer on Minecraft servers
+- Personal projects
 
 # #Projects
 
