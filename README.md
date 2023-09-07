@@ -9,8 +9,8 @@ I'm a passionate Level & Gameplay Designer with 4 years of experience in Unity &
 ## #Skills
 - Unity3D, Unreal Engine 5. More here: [Software and how I used them](https://github.com/GiuseppeRotondo03/GiuseppeRotondo03.github.io/blob/main/List%20of%20Programs%20that%20i%20know.pdf)
 - BluePrint Visual Scripting, C++, C#
-- Solo & Team working
 - Italian native speaker, English B1, Japanese A2
+- Solo & Team working
 
 # #Working Experience
 
@@ -36,7 +36,7 @@ In this project I had to make a map for a story - mode of a FPS game with props 
 - Screenshots, process, Feedback, fix: [Click Here](https://www.artstation.com/artwork/6NzvN5)
 
 ### #Project V - Level Designer
-I been able  to create a map, following the specifications given by the game designer, for an FPS Cal Of Duty - like game.
+This was my first real FPS multiplayer map. I been able to create a map, following the specifications given by the game designer, for an FPS Cal Of Duty - like game.
 - See and Read more about how i did the level [Here](https://giusepperotondo03.github.io/project_V/)
 - If you want to try the final level: [Play the level Graybox](https://giusepperotondo.itch.io/project-v)
 
@@ -44,11 +44,9 @@ I been able  to create a map, following the specifications given by the game des
 Anty is a Top - Down Arcade game. The player goal, an ant, is to save the eggs in the anthill without being seen by the spiders. Each level has different challenges and different difficulty levels.
 - Watch Gameplay clips [1 minute video](https://youtu.be/yeR7v-2roT4)
 - Try the game [Download Page](https://giusepperotondo.itch.io/anty-please-save-the-eggs)
-- Read more about [Game Design](https://giusepperotondo03.github.io/Anty-Design/)
+- Read more ì[Game Design](https://giusepperotondo03.github.io/Anty-Design/)
 
 #### #Jump Jump - Game Programmer / Gameplay Designer [playable]
 Jump Jump is a first person parkour game with unique mechanics
-- 1 minute of Gameplay: [click here](https://youtu.be/PvDKkf-1XQo)
-- Read about game design here: [click here](https://giusepperotondo03.github.io/JumpJump_Project.github.io-/)
-- Try my game here: [click here](https://giusepperotondo.itch.io/jump-jump)
-- See the game code here: [click here](https://giusepperotondo03.github.io/JumpJumpCode.Github.io/)
+- Try my game here: [Download Page](https://giusepperotondo.itch.io/jump-jump)
+- More: rotondo.giuseppe.03@gmail.com
