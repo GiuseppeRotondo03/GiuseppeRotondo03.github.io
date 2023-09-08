@@ -54,5 +54,4 @@ Anty is a Top - Down Arcade game. The player goal, an ant, is to save the eggs i
 
 #### #Jump Jump - Game Programmer / Gameplay Designer [07/2023]
 Jump Jump is a first person parkour game with unique mechanics
-- Try my game here: [Download Page](https://giusepperotondo.itch.io/jump-jump)
 - More: rotondo.giuseppe.03@gmail.com
