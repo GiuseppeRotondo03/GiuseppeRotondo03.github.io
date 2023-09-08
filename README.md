@@ -50,7 +50,7 @@ This was my first real FPS multiplayer map. I been able to create a map, followi
 Anty is a Top - Down Arcade game. The player goal, an ant, is to save the eggs in the anthill without being seen by the spiders. Each level has different challenges and different difficulty levels.
 - Watch Gameplay clips [1 minute video](https://youtu.be/yeR7v-2roT4)
 - Try the game [Download Page](https://giusepperotondo.itch.io/anty-please-save-the-eggs)
-- Read more ì[Game Design](https://giusepperotondo03.github.io/Anty-Design/)
+- Read more [Game Design](https://giusepperotondo03.github.io/Anty-Design/)
 
 #### #Jump Jump - Game Programmer / Gameplay Designer [07/2023]
 Jump Jump is a first person parkour game with unique mechanics
