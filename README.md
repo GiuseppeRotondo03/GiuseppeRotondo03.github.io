@@ -31,28 +31,28 @@ Freelancer Level Designer // Game Designer // Gameplay Programmer · apr 2021 - 
 
 <hr>
 
-### #FPS Multiplayer map - Fantasy Park - Level Designer
+### #FPS Multiplayer map - Fantasy Park - Level Designer 09/2023
 My last work, Map for a Call of duty - like shooter
 - Screenshots, process, iterations, fix [Art Station]()
 - More about the process [Here](https://giusepperotondo03.github.io/ParkMapFPS/)
 - Play the level! [Download page, soon](https://www.artstation.com/artwork/LRBgvk)
 
-### #FPS Singleplayer Map - Bridge in the Canyon - Level Designer
+### #FPS Singleplayer Map - Bridge in the Canyon - Level Designer 08/2023
 In this project I had to make a map for a story - mode of a FPS game with props given by game designer
 - Screenshots, process, Feedback, fix: [Art Station](https://www.artstation.com/artwork/6NzvN5)
 
-### #FPS Multyplayer map - Tempio - Level Designer
+### #FPS Multyplayer map - Tempio - Level Designer 08/2023
 This was my first real FPS multiplayer map. I been able to create a map, following the specifications given by the game designer, for an FPS Cal Of Duty - like game.
 - See and Read more about how i did the level [Here](https://giusepperotondo03.github.io/project_V/)
 - If you want to try the final level: [Play the level Graybox](https://giusepperotondo.itch.io/project-v)
 
-#### #Top Down Single Player map - Anty, Please save the eggs! - Level Desinger / Game Desinger 
+#### #Top Down Single Player map - Anty, Please save the eggs! - Level Desinger / Game Desinger 07/2023
 Anty is a Top - Down Arcade game. The player goal, an ant, is to save the eggs in the anthill without being seen by the spiders. Each level has different challenges and different difficulty levels.
 - Watch Gameplay clips [1 minute video](https://youtu.be/yeR7v-2roT4)
 - Try the game [Download Page](https://giusepperotondo.itch.io/anty-please-save-the-eggs)
 - Read more ì[Game Design](https://giusepperotondo03.github.io/Anty-Design/)
 
-#### #Jump Jump - Game Programmer / Gameplay Designer [playable]
+#### #Jump Jump - Game Programmer / Gameplay Designer [playable] 07/2023
 Jump Jump is a first person parkour game with unique mechanics
 - Try my game here: [Download Page](https://giusepperotondo.itch.io/jump-jump)
 - More: rotondo.giuseppe.03@gmail.com
