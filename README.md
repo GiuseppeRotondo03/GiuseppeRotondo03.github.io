@@ -16,8 +16,12 @@ I'm a passionate Level & Gameplay Designer with 4 years of experience in Unity &
 
 <hr> 
 
+## #Associate Level Designer - Chaos Kart
+Baka Bros Entertainment · Sep 2023 - Present · Remote
+- I'm in charge of creating racing maps for the game "Chaos Kart". From reference research, to layout and blockout.
+
 ### #Level Designer - Block Tactics 
-Freelance · Ruzzoli - IT Solutions · ago 2023 - Present · Remote
+Freelance · Ruzzoli - IT Solutions · ago 2023 - Sep 2023 · Remote
 - Block Tactics is a turn based tactics multiplayer game with destructible terrain and free aim made by an Indie studio.
 - In one sentence: It takes the general idea of XCOM, adds back the ballistics system from the original, spiked with the free aim mode taken from Phoenix Point and puts it into a minecraft style
         destructible block world, with a focus on multiplayer matches.
