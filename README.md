@@ -35,11 +35,8 @@ Freelancer Level Designer // Game Designer // Gameplay Programmer · apr 2021 - 
 
 <hr>
 
-### #FPS Multiplayer map - Fantasy Park - Level Designer [09/2023]
-My last work, Map for a Call of duty - like shooter
-- Screenshots, process, iterations, fix [Art Station]()
-- More about the process [Here](https://giusepperotondo03.github.io/ParkMapFPS/)
-- Play the level! [Download page, soon](https://www.artstation.com/artwork/LRBgvk)
+### #FPS Fast-paced Multiplayer map - Level Designer [09/2023]
+- Screenshots, process, iterations, fix [Art Station](https://www.artstation.com/artwork/8bEoEm)
 
 ### #FPS Singleplayer Map - Bridge in the Canyon - Level Designer [08/2023]
 In this project I had to make a map for a story - mode of a FPS game with props given by game designer
